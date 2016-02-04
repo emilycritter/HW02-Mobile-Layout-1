@@ -1,0 +1,122 @@
+main {
+  color: #EFEDF1;
+  font-family: "Arial";
+  margin: 0;
+}
+nav {
+  font-size: 16px;
+  font-weight: normal;
+  padding-left: 30px;
+  line-height: 50px;
+}
+.pg1 nav {
+  background-color: #550106;
+}
+.pg2 nav {
+  background-color: #2E3E4F;
+}
+.pg1 .banner {
+  padding-left: 30px;
+  height: 385px;
+  background-color: #EA261B;
+}
+.pg2 .banner {
+  height: 315px;
+  margin-bottom: 40px;
+  background-color: #288ED3;
+}
+.banner .button1 {
+  text-align: center;
+  padding-top: 100px;
+}
+.button1 a {
+  border: 3px solid #FFFFFF;
+  color: #EDEBF0;
+  font-size: 20px;
+  line-height: 60px;
+  font-weight: bold;
+  padding: 20px 55px;
+}
+.banner .button2 {
+  width: 310px;
+  height: 45px;
+  margin: 18px auto 0;
+  background-color: #BFE0F6;
+}
+.banner .button3 {
+  width: 170px;
+  height: 33px;
+  margin: 12px auto 55px;
+  background-color: #FFFFFF;
+}
+.pg1 article {
+  height: 225px;
+  margin: 64px 10px 32px;
+  background-color: #550106;
+}
+.wrapper header {
+  height: 44px;
+  background-color: #35495D;
+  margin-bottom: 34px;
+}
+.pg2 article {
+  height: 135px;
+  background-color: #288ED3;
+  margin: 0 15px 26px;
+}
+.pg1 .detail {
+  height: 917px;
+  background-color: #230001;
+}
+.detail .intro {
+  height: 375px;
+  margin-bottom: 39px;
+  background-color: #909DAA;
+  border: 26px solid #35495D;
+}
+.detail header {
+  height: 44px;
+  background-color: #35495D;
+}
+.detail .wrapper {
+  margin: 45px 25px 40px;
+}
+.bl1 {
+  height: 275px;
+  margin-bottom: 44px;
+  background-color: #7F8C8D;
+}
+.bl2-header {
+  height: 22px;
+  margin: 35px 0;
+  background-color: #35495D;
+}
+.bl2 {
+  height: 110px;
+  background-color: #7F8C8D;
+}
+.bottom {
+  padding: 140px 0 70px;
+  background-color: #A10A10;
+}
+.contact {
+  height: 412px;
+  margin: 0 32px;
+  background-color: #D87F7E;
+}
+.pg1 footer {
+  height: 204px;
+  background-color: #230001;
+}
+.pg2 footer {
+  height: 45px;
+  background-color: #7F8C8D;
+  border: 12px solid #111111;
+}
+a {
+  text-decoration: none;
+  color: #EFEDF1;
+}
+a:hover {
+  text-decoration: underline;
+}
