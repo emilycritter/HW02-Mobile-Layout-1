@@ -49,10 +49,13 @@ After completing this assignment, you be able to effectively use
 
 ## Normal Mode
 Using your knowledge of HTML and CSS, replicate the mobile layout displayed in this image file in a file called `index.html` within your dist directory.
+
 ![alt text][logo]
 
 [logo]: https://github.com/TIY-Austin-Front-End-Engineering/mobile-layout-1/raw/master/page1.png
+
 Next, replicate the mobile layout displayed in this image file in a file called `page2.html` within your dist directory.
+
 ![alt text][logo]
 
 [logo]: https://raw.githubusercontent.com/TIY-Austin-Front-End-Engineering/mobile-layout-1/master/page2.png
