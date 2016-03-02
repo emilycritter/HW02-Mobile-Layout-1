@@ -1,6 +1,8 @@
-# Mobile Layout 1
-## Build out a simple mobile website using HTML and CSS
-###### Due Monday, February 08, 2016  CSS and SCSS (Sassy CSS)
+# CSS and SCSS (Sassy CSS)
+## Mobile Layout 1
+###### Due Monday, February 08, 2016
+Build out a simple mobile website using HTML and CSS
+
 ## Objectives
 ###### Learning Objectives
 After completing this assignment, you should…
